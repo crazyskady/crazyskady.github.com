@@ -1,0 +1,12 @@
+auto: true
+
+markdown: kramdown
+kramdown:
+    input: GFM
+rouge: true
+permalink: /:title
+
+title: 囧囧的囧码农
+url: walkerwhisper.com
+feed: /atom.xml
+author_info: <a href="walkerwhisper.com">Crazy Skady</a>
