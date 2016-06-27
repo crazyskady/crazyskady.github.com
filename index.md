@@ -5,7 +5,7 @@ layout: home
 <div class="index-content coding">
   <div class="section">
     <ul class="artical-cate">
-      <li class="on"><a href="/coding"><span>码农不哭</span></a></li>
+      <li class="on"><a href="/"><span>码农不哭</span></a></li> <!-- 如果href是/coding，在主页上再点一次码农不哭就会找不到页面，因为没有配置coding的文件夹 -->
       <li style="text-align:center"><a href="/life"><span>生活随笔</span></a></li>
     </ul>
 

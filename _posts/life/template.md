@@ -9,4 +9,4 @@ category: life
 
 
 
-[Fong Ray]: http://www.fangr.tk  "Fong Ray"
+[Crazyskady]: http://walkerwhisper.com  "Crazyskady"
