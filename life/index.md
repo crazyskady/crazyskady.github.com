@@ -5,7 +5,7 @@ layout: home
 <div class="index-content life">
   <div class="section">
     <ul class="artical-cate">
-      <li><a href="/"><span>码农不哭</span></a></li>
+      <li><a href="/coding"><span>码农不哭</span></a></li>
       <li class="on" style="text-align:center"><a href="/life"><span>生活随笔</span></a></li>
     </ul>
 
