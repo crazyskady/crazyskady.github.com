@@ -19,3 +19,6 @@ category: coding
 ***
 
 然后就开始加油码字吧。主要集中在Python/FreeRtos的一些相关记录上。
+
+Disqus已经可以正常评论了，但是Guest用戶的评论永远需要approve...
+Note: Registered users must now verify their email address prior to posting a comment. Pre-moderation is always enabled for guest comments.
